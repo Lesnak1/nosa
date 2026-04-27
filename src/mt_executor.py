@@ -11,57 +11,40 @@ class MT5Executor:
         self.sod_balance = None
         
     def connect(self):
-        logger.info("Connecting to MT5 (Bulletproof Mode)...")
+        logger.info("Connecting to MT5...")
         
-        # Always shutdown before a fresh start to clear stalled IPC pipes
-        mt5.shutdown()
-        
-        # Step 1: Attempt standard initialization (letting library find terminal)
-        # We use a 120s timeout as suggested by professional documentation
-        init_ok = mt5.initialize(timeout=120000)
-        
-        if not init_ok:
+        # Step 1: Initialize without login params to establish IPC quickly
+        if not mt5.initialize(timeout=60000):
             error_code, error_desc = mt5.last_error()
-            logger.warning(f"Standard initialize failed: {error_code} ({error_desc})")
-            
-            # Step 2: If standard fails, try explicit path (calculated or manual)
-            path = r"C:\Users\philo\AppData\Roaming\MetaTrader 5\terminal64.exe"
-            logger.info(f"Attempting explicit path initialization: {path}")
-            init_ok = mt5.initialize(path=path, timeout=120000)
-            
-            if not init_ok:
-                # Step 3: Try portable mode just in case (some FTMO installs use this)
-                logger.warning("Path init failed. Trying Portable Mode...")
-                init_ok = mt5.initialize(path=path, timeout=120000, portable=True)
-                
-                if not init_ok:
-                    error_code, error_desc = mt5.last_error()
-                    # Check if IPC is actually alive despite the error
-                    if mt5.terminal_info() is not None:
-                        logger.warning("IPC is secretly alive! Proceeding despite init error.")
-                        init_ok = True
-                    else:
-                        logger.error(f"ALL INITIALIZATION ATTEMPTS FAILED. Final Error: {error_code} ({error_desc})")
-                        logger.error("CRITICAL: Please ensure BOTH Python and MT5 are running with SAME PRIVILEGES (both as Admin or both as Standard).")
-                        return False
-
-        # Step 4: Login explicitly if initialization succeeded (or was bypassed)
-        if init_ok:
-            if self.account_number and self.password and self.server:
-                acc_info = mt5.account_info()
-                if acc_info and acc_info.login == self.account_number:
-                    logger.info(f"Already logged in to account {self.account_number}.")
+            # -6 is Auth failed, -10005 is IPC timeout. 
+            # Sometimes IPC times out but the connection is actually established in the background!
+            if error_code in [-6, -10005]:
+                logger.warning(f"Terminal returned {error_code} ({error_desc}). Checking if IPC is secretly alive...")
+                if mt5.terminal_info() is None:
+                    logger.error("IPC is completely dead. Cannot connect to MT5.")
+                    return False
                 else:
-                    logger.info(f"Logging into MT5 account {self.account_number} on {self.server}...")
-                    authorized = mt5.login(
-                        login=self.account_number, 
-                        password=self.password, 
-                        server=self.server
-                    )
-                    if not authorized:
-                        error_code, error_desc = mt5.last_error()
-                        logger.error(f"Login failed at account #{self.account_number}, error code: {error_code} ({error_desc})")
-                        return False
+                    logger.warning("IPC is actually alive! Proceeding...")
+            else:
+                logger.error(f"initialize() failed, error code = {error_code} ({error_desc})")
+                return False
+
+        # Step 2: Login explicitly
+        if self.account_number and self.password and self.server:
+            acc_info = mt5.account_info()
+            if acc_info and acc_info.login == self.account_number:
+                logger.info(f"Already logged in to account {self.account_number}.")
+            else:
+                logger.info(f"Logging into MT5 account {self.account_number} on {self.server}...")
+                authorized = mt5.login(
+                    login=self.account_number, 
+                    password=self.password, 
+                    server=self.server
+                )
+                if not authorized:
+                    error_code, error_desc = mt5.last_error()
+                    logger.error(f"Login failed at account #{self.account_number}, error code: {error_code} ({error_desc})")
+                    return False
                 
         account_info = mt5.account_info()
         if account_info is None:
@@ -89,6 +72,14 @@ class MT5Executor:
             return 0
         return len(positions)
 
+    def get_spread_pct(self, symbol: str) -> float:
+        """Get current spread as percentage of price. Returns None if unavailable."""
+        tick = mt5.symbol_info_tick(symbol)
+        if tick is None or tick.ask == 0:
+            return None
+        spread_pct = (tick.ask - tick.bid) / tick.ask * 100
+        return spread_pct
+
     def close_all_positions(self):
         positions = mt5.positions_get()
         if positions is None or len(positions) == 0:
@@ -97,6 +88,9 @@ class MT5Executor:
         logger.warning(f"Closing ALL {len(positions)} positions immediately!")
         for pos in positions:
             tick = mt5.symbol_info_tick(pos.symbol)
+            if tick is None:
+                logger.error(f"Cannot get tick for {pos.symbol}, skipping close of {pos.ticket}")
+                continue
             type_dict = {
                 mt5.POSITION_TYPE_BUY: mt5.ORDER_TYPE_SELL,
                 mt5.POSITION_TYPE_SELL: mt5.ORDER_TYPE_BUY
@@ -141,8 +135,14 @@ class MT5Executor:
         volume = float(round(volume / symbol_info.volume_step) * symbol_info.volume_step)
         if volume < symbol_info.volume_min:
             volume = symbol_info.volume_min
+        if volume > symbol_info.volume_max:
+            logger.warning(f"Volume {volume} exceeds max {symbol_info.volume_max}, capping.")
+            volume = symbol_info.volume_max
             
         tick = mt5.symbol_info_tick(symbol)
+        if tick is None:
+            logger.error(f"Cannot get tick data for {symbol}")
+            return False
         
         order_type = mt5.ORDER_TYPE_BUY if side == "BUY" else mt5.ORDER_TYPE_SELL
         price = tick.ask if side == "BUY" else tick.bid

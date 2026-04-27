@@ -1,8 +1,22 @@
+# Environment & secrets
+src/.env
 .env
+
+# Python cache
 __pycache__/
-logs/
 *.pyc
-data/*.csv
+*.pyo
+
+# Data files (too large for git)
+data/
+
+# Logs
+logs/
+
+# Temp directories
 cryexc_tmp/
 .agent/
-.gemini/
+
+# IDE
+.vscode/
+.idea/

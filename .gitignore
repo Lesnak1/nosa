@@ -1,0 +1,8 @@
+.env
+__pycache__/
+logs/
+*.pyc
+data/*.csv
+cryexc_tmp/
+.agent/
+.gemini/

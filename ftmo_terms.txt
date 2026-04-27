@@ -1,0 +1,818 @@
+  
+   
+ 
+FTMO  GENERAL TERMS AND CONDITIONS  
+LAST UPDATED ON 2 FEBRUARY 2026  
+We are FTMO Evaluation Global s.r.o. , a company established and existing under the laws of the Czech 
+Republic, with its registered office at Purkyňova 2121/3, Nové Město, 110 00 Prague 1, Czech Republic, 
+Identification No.: 092 13 651 ("we" or " FTMO Evaluation "). 
+Our mission is to provide you with the education and tools necessary to develop skills required to be a 
+successful trader. We have developed our ‘Evaluation Process’ and the rest of our services with this goal 
+in mind.  
+You should read this document carefully. These FTMO General Terms and Conditions (the " Terms ") 
+govern the provision of our ‘Evaluation Process ’ in which you gain access to the ‘FTMO Challenge ’ as 
+well as analytical instruments, educational materials and other services which we will enable you to access through the website ftmo.com  (the " Website") and which are further described  in Clause  5 (Our 
+services ) (together, the “ Services ”). The FTMO Challenge accounts are accounts for simulated trading. 
+The activity you engage in when you submit simulated trades in your FTMO Challenge account is not 
+trading in real financial instruments.  
+After you register on the Website you may order the FTMO Challenge and other Services (each an 
+"Order "). When we confirm your Order a contract between you and us is concluded (each an 
+"Agreement " and together the " Agreements "). These Terms , together with the confirmed Order,  
+constitute the Agreement. Your agreement to these Terms is evidenced by you ticking the statement that 
+you have read and agree with the FTMO General Terms and Conditions when completing the Order. If 
+you enter in an Agreement on behalf of a legal entity, you represent that you have the authority to bind that legal entity to the Agreement and, in such event, “you” and “your” will refer and apply to that company 
+or other legal entity.  
+Definition of terms and abbreviations used in these  Terms  can be found in Clause 21 (Definitions and 
+interpretation) . 
+Table of Contents  
+1.
+ Eligible customers  ....................................................................................................................... 2 
+2. Services are not regulated financial services .............................................................................. 2 
+3. Order of Services  ........................................................................................................................ 3 
+4. User Area and Trading Platform  .................................................................................................  5 
+5. Our services  ................................................................................................................................ 6 
+6. FTMO Trader Program  ................................................................................................................ 8 
+7. Rules of Simulated Trading  ......................................................................................................... 9 
+8. FTMO Points  ............................................................................................................................. 11 
+9. Use of the Website, Services and other Content  ...................................................................... 12 
+10. Disclaimer and indemnification  .................................................................................................  12 
+11. Breach of these Terms  .............................................................................................................. 14 
+12. Right to withdraw from the Agreement  ...................................................................................... 14 
+13. Duration and termination of the Agreement  .............................................................................. 14 
+ 
+ 
+FTMO General Terms and Conditions   2 / 22 
+ 
+14. Technical issues, defective performance and complaints  ........................................................ 16 
+15. Changes to these Terms  ........................................................................................................... 16 
+16. Your personal information and Simulated Trading information ................................................. 17 
+17. Out-of-court consumer dispute resolution  ................................................................................. 17 
+18. Governing law and jurisdiction  .................................................................................................. 18 
+19. Communication and notices  ...................................................................................................... 18 
+20. General ...................................................................................................................................... 18 
+21. Definitions and interpretation .................................................................................................... 20 
+1. Eligible  customers   
+1.1 You are only eligible to access the Services if:  
+1.1.1  you are a natural person at least eighteen ( 18) years of age and not subject to 
+restrictions based on your nationality or residency, as determined by the specific rules 
+of each Restricted Jurisdiction and further detailed here on the Website ; or  
+1.1.2  you are a legal entity and are not established or incorporated and do not have a 
+registered office or place of business in a Restricted Jurisdiction and excluding company trusts established in any jurisdiction, provided that the beneficial owner  is eligible to 
+access the Services in accordance with Clause 1.1.1  in their individual capacity  as well , 
+and you are not subject to relevant international sanctions , in particular you are not included on 
+sanctions lists of the European Union, the Office of Foreign Assets Control, the United Nations 
+or the Czech Republic, you do not  have a criminal record related to financial crime or terrorism, 
+and you meet the requirements of  our "know your customer"  or "know your business" providers 
+or similar identification procedures  summarised here.  
+1.2 If you provide a business identification number, tax registration number or similar information, 
+or if you state that you are a legal entity, you will not be considered a Consumer for the purposes 
+of these Terms and when using the Services for the entire d uration of the Agreement.  
+1.3 You may only access and use the Services in accordance with applicable law  and these Terms . 
+1.4 You represent that at the time of execution of the Agreement you meet the eligibility criteria 
+in this Clause 1 (Eligible customers ). If you do not meet the eligibility criteria stated in this C lause 
+the Agreement is not concluded. If you cease to meet the eligibility criteria in this 
+Clause  1 (Eligible customers ) following the conclusion of the Agreement, you must notify us 
+immediately.  
+2. Services are not regulated financial services  
+2.1 None of the Services are subject to  laws regulating the financial sector in the countries where 
+we provide the Services. We are not regulated by the Czech National Bank or a similar authority overseeing the financial sector in other countries . As a result, y ou will not receive regulatory 
+protection associated with the financial sector  with respect to the Services.  
+ 
+ 
+FTMO General Terms and Conditions   3 / 22 
+ 
+2.2 None of the Services constitute financial, investment, legal or tax advice or a recommendation 
+to buy, sell or hold any financial product or virtual or simulated  asset or to engage in a particular 
+investment strategy.  
+2.3 We do not give any guidance, instructions,  limitations  or information about how or in which 
+manner you should perform simulated  trades when using the Services  or otherwise with the 
+exception of  Forbidden Trading Practices and  Risk Management Rules  (see Clause 7  (Rules of 
+Simulated Trading )). Similarly, we do not  accept any such guidance or instructions from you  
+provided, however, that we may observe your simulated trades and share that information 
+pursuant to Clause 16.3.  
+2.4 You should obtain independent financial, legal or tax advice regarding your specific 
+circumstances as appropriate.  
+3. Order of Services  
+3.1 You can make an Order after registering to create your user interface on the Website (the " User 
+Area "). During registration login credentials for access to the User Area  (the " Profile 
+Credentials ") will be created by (i)  filling out the registration form or (ii) utilising your third- party 
+user profile. The Profile Credentials will enable you to access further Services and you are 
+responsible for their protection and for protection of access to the Services  consistent ly with 
+Clauses 4 (User Area and Trading Platform) and 7.2 . 
+3.2 When completing an Order you select the version of the FTMO Challenge, the amount of 
+simulated capital (the " Initial Simulated Capital ") as well as other options as available which 
+modify the Services (the " Options "). Unless there is a particular limitation invoked on you, the 
+Options then determine the parameters which you must fulfil under the specific Order so that 
+the Trading Objectives of the FTMO Challenge under such Order are fulfilled. The Options you 
+select also apply to the subsequent FTMO  Account (see Clause 6 (FTMO Trader Program)). 
+Once you select the Options, you may not change them for that Order. More information on the Options is available on the Website here.   
+3.3 Data entered in the Order form can be reviewed and amended until you make the Order. The 
+Order is finali sed and binding with payment obligation by submitting the Order form.  
+3.4 During the application process, you must provide all required information about yourself. All data 
+which you provide to us must be complete, true, accurate, not misleading and up to date. We are under no obligation to verify the data you provide to us. You must immediately update such 
+data in the User Area  to reflect any change. You represent that you have all rights and consents 
+necessary to provide any data to us . 
+Fees and payment  conditions  
+3.5 The fee for the FTMO Challenge ( the "FTMO Challenge Fee ") varies according to the version  
+of the FTMO Challenge (see Clause 5.8.1) and the Initial Simulated Capital  you select  when 
+completing the Order . More information on the FTMO Challenge Fee is available on the Website 
+here.  
+3.6 Discounts and other benefits may not be combined, unless we expressly stipulate otherwise.  
+ 
+ 
+FTMO General Terms and Conditions   4 / 22 
+ 
+3.7 Payment of the FTMO Challenge Fee is made pursuant to individual Orders. The FTMO 
+Challenge Fee is stated in EUR  but can be paid  also in other currencies or cryptocurrencies 
+listed on the Website. If you select a payment currency other than EUR , we will convert the 
+amount of the FTMO Challenge Fee according to a market exchange rate we derive from current 
+market rates and your payment total in your chosen currency will be displayed before you confirm the Order. You acknowledge that if the payment is made in a currency other than the one you have chosen on the Website, the amount will be converted according to the exchange 
+rates of your bank or payment services provider.  
+3.8 You can pay the FTMO Challenge Fee via payment means offered on the Website at the time 
+of payment. In the event of payment by credit or debit card or via another express payment 
+method, the payment will be made immediately. The fee is considered paid when the required 
+amount is credited to our account. If you do not pay the due amount on time, we are entitled to 
+cancel your Order. You are responsible for all fees charged to you by us or the selected payment 
+service provider (according to the valid pricelis t of the payment service provider) in connection 
+with the transaction and you must ensure that the FTMO Challenge Fee according to the individual Order is paid in full.  
+3.9 The FTMO Challenge Fee is inclusive of sales tax that we are obliged to pay or withhold with respect to the receipt of the FTMO Challenge Fee in accordance with applicable tax  laws and 
+regulations. Nevertheless, you should consult your own tax advisor regarding what your tax 
+obligations are in connection with the use of the Services in accordance with applicable laws 
+and regulations. We have no responsibility for your personal or business tax liabilities.  
+3.10 We will confirm receipt of your Order to you and we will provide login credentials for the Trading 
+Platform  (the " Trading Platform Credentials ") after receiving payment of the FTMO Challenge 
+Fee or without undue delay if no payment is required.  Your  invoice will be made available in the 
+User Area within the time period set out by applicable law, usually up to fourteen (14) calendar 
+days . 
+3.11 In case we adopt ed measures to prevent you from using our services in the past and have now  
+agreed to lift these measures, we may require you to pay our related expenses.  
+3.12 Unless expressly agreed otherwise, once paid, you are not entitled to a refund of the FTMO 
+Challenge Fee under any circumstances.  
+Number of Orders  
+3.13 Subject to Clause 3.14,  you can place multiple Orders and each Order, once complete, 
+constitutes a separate Agreement.  
+3.14 We reserve the right to limit the total number of Orders you can make:  
+3.14.1  The total number of Orders may be limited in aggregate in case other clients connected to you are using the Services, specifically, if you are (i) the ultimate beneficial owner of 
+such client, (ii) members of top management or another body with the highest executive 
+authority  of such client, or (iii) employee or officer of such client.  
+3.14.2  If, at our discretion and acting reasonably, we determine that you place an unusually large number of Orders, we may notify you through the User Area  as a protective 
+ 
+ 
+FTMO General Terms and Conditions   5 / 22 
+ 
+precaution to mitigate potentially harmful behaviour . If the behaviour  continues after 
+such notice, we reserve the right to suspend any further Orders by you or invoke a cool -
+down period. If we identify that such unusual behaviour  relates to your involvement in 
+Forbidden Trading Practices, we may take any of the respective actions set out in 
+Clauses 7 (Rules of Simulated  Trading ), 11 (Breach of these Terms ) and 13 (Duration 
+and termination of the Agreement ). We reserve the right to determine, at our own 
+discretion, the nature of the behaviour  described above and reasonable boundaries for 
+such determination.  
+3.15 Unless we grant you an exception, the Initial Simulated Capital may not be transferred between 
+products ( individual Orders) or mutually combined. You may also not transfer or combine your 
+performance, Service parameters, data, or any other information between the products 
+(individual Orders).  
+4. User Area  and Trading  Platform  
+4.1 Access to all Services will be through the User Area, or by the provision of access to applications provided by us or third parties.  
+4.2 After we receive pay ment of the FTMO Challenge Fee for the individual Order, we provide you 
+with the Trading Platform Credentials  in the User Area. You can have only one User Area  and 
+all of  the Services you order must be maintained in this User Area.  The Profile Credentials are 
+linked to a single email address which may not be changed after registration.  
+4.3 Access to the User Area  and the Trading Platform is protected by the Profile  Credentials  and 
+Trading Platform Credentials, respectively , which you must not share with any third party.  
+4.4 You are responsible for all activities that are performed through the User Area  or Trading 
+Platform or otherwise using your Profile Credentials  or Trading Platform Credentials .  
+4.5 You may request cancellation of the User Area  at any time by sending an email to us . This right 
+survives the termination of the Agreement. Sending a request for the cancellation of the User 
+Area  is considered a termination of all Agreements concluded between you and us  under Clause 
+13.2.4 resulting in you being no longer entitled to use the Services  and accessing the User Area 
+and the Trading Platform. In such a case, you are not entitled to any refund of any fees already 
+paid or costs otherwise incurred.  
+4.6 If you previously had a User Area  which was cancelled and you would like to create a new User 
+Area , you can send an email request to us. However, we are under no obligation to 
+accommodate such requests and will do so at our sole discretion.  
+4.7 The Services may be temporarily unavailable due to, among other things, maintenance and 
+upgrades. You are obliged to regularly follow our updates available here regarding 
+maintenances, holidays and other developments impacting trading hours and availability of the 
+Services.  We generally release updates weekly or as needed in case of urgent matters.   
+4.8 In order to use the Services, you must possess appropriate technical equipment and software, including third -party software, at your own risk and expense. A limited license to certain software 
+is provided by us or a member of the FTMO  Group (see Clause 9  (Use of the Website, Services 
+and other Content )). The Services are compatible and interoperable with technical and software 
+ 
+ 
+FTMO General Terms and Conditions   6 / 22 
+ 
+equipment normally used with services of this type. The Website is accessible from the most 
+commonly used web browsers. Internet access, purchase of the equipment, and purchase of 
+the web browser and its updates are at your own risk and expense. We do not warrant or 
+guarantee that the Services will be compatible with any specific equipment or software.  
+4.9 The operators of any third- party software, applications or programs which you use to access the 
+Services are persons or entities distinct from us and such third parties ' own terms and conditions 
+and privacy policies will apply when you use their services and products. Before you make an Order, you should read such terms and conditions and privacy policies. By using a Trading 
+Platform or other third- party software, you agree to those third- party terms and conditions. We 
+will have no responsibility or liability to you in connection with your use of, or interaction with, 
+any third- party software including a Trading Platform.  
+5. Our services  
+5.1 The main purpose of our services is to provide you with educational  experience to help you 
+develop your skills as a trader as well as to evaluate your performance. For this purpose, after 
+registration on the Website, you may access the Trading Platform on which you may perform 
+simulated trading ( "Simulated  Trading ") as describ ed below.  
+5.2 Simulated Trading simulates trading on financial markets. Information and market data (price 
+quotes) from real financial markets as provided by our liquidity providers is used in Simulated 
+Trading only to reproduce market conditions. No actual trading is taking place and there is no execution of trades in financial markets.  
+5.3 You acknowledge that : 
+5.3.1  Simulated Trading is purely fictional, meaning that the trades are simulated and not in real financial instruments;  
+5.3.2  the amount shown as capital in your simulated account at any point is simulated in 
+nature, does not represent any deposit of funds  and has no monetary value, and  
+5.3.3  you will not be paid any remuneration or profits based on the results of your Simulated  
+Trading in the Evaluation Process.  
+5.4 You may participate in the following modes  of Simulated Trading:  
+5.4.1  Free Trial; or  
+5.4.2  Evaluation Process . 
+5.5 As part of the Simulated Trading, you have access to the following services which may differ in 
+scope depending upon which Mode you are in:  
+5.5.1  analytical tools and educational materials;  
+5.5.2  access to the User Area ; and  
+5.5.3  other ancillary services, in particular, through the User Area or by accessing applications 
+provided by us or third parties.  
+ 
+ 
+FTMO General Terms and Conditions   7 / 22 
+ 
+5.6 We reserve the right to modify, change, replace, add, or remove any elements and functions of 
+the Services at any time without being obliged to pay you any compensation.  
+5.7 Free Trial  
+5.7.1  You may use certain Services within a limited scope and for a limited period  free of 
+charge (the "Free Trial "). Only one active Free Trial is permitted at a time. We reserve 
+the right to suspend or limit the Free Trial at any time in our sole discretion. On expiry 
+of the Free Trial term, access to the relevant Services will no longer be possible.  
+Completing the Free Trial does not entitle you to access any other Services  or to use 
+the Services that were subject of the Free Trial beyond the Free Trial period determined 
+by us .  
+5.7.2  In addition, we make no and hereby disclaim any and all warranties and representations 
+relating to the Services provided to you as part of the Free Trial. W e will have no liability 
+arising out of your use of the Services during the Free Trial.  
+5.8 Evaluation Process  
+5.8.1  We provide two versions  of the Evaluation Process : 
+(a) FTMO Challenge:  1-Step, which comprises one phase:  
+(I) FTMO Challenge Phase; and 
+(b) FTMO Challenge:  2-Step, which comprises two phases :  
+(I) FTMO Challenge Phase; and  
+(II) Verification  Phase .  
+5.8.2  Passing a version  of the FTMO Challenge is a  pre-requisite to you applying for an FTMO 
+Account and becoming a participant of the FTMO Trader Program (see Clause 6 (FTMO 
+Trader  Program) for more information).  
+5.8.3  During  the Evaluation Process  your performance is measured against the Trading 
+Objectives.  
+5.8.4  You activate each phase of the FTMO Challenge by opening the first simulated trade 
+on the Trading Platform. If you do not activate a phase of the FTMO Challenge within 
+thirty ( 30) calendar  days of the date on which it was made available to you, your access 
+to such FTMO Challenge will be suspended. You can request renewal of your access 
+within six (6) months of the initial suspension, otherwise we will terminate the Agreement 
+without any right to a refund of the FTMO Challenge Fee.  
+5.8.5  In order for you to successfully pass each phase of the FTMO Challenge, you must : 
+(a) fulfil all of the Trading Objectives :  
+(I) in case of the FTMO Challenge:  1-Step listed here;  or 
+(II) in case of the FTMO Challenge : 2-Step listed here for the FTMO 
+Challenge Phase  and the Verification Phase;  
+ 
+ 
+FTMO General Terms and Conditions   8 / 22 
+ 
+(b) not violate these Terms , in particular the r ules of Simulated Trading (see 
+Clause 7 (Rules of Simulated  Trading) ) during the FTMO Challenge,  and 
+(c) procure that the aggregate amount of the Initial Simulated Capital on all 
+accounts held by you or parties affiliated with you, individually or in 
+combination, on all accounts with us and/or members of the FTMO  Group 
+does not exceed USD 400,000.   
+5.8.6  We have no obligation to evaluate a phase of the FTMO Challenge if you have not 
+closed all simulated  trades  and pending orders . 
+5.8.7  Once we evaluate a phase  of the FTMO Challenge as successful , we will either make 
+the next phase of the FTMO Challenge available to you free of charge by providing you 
+with Trading Platform C redentials to the associated account  or, if there is no next phase, 
+we will recommend you as a candidate for the FTMO Trader Program. This does not guarantee your acceptance into the FTMO Trader Program. We are not responsible for 
+you not being admitted into the FTMO Trader Program for any reason. For more 
+information a bout becoming a participant of the FTMO Trader Program (see Clause 6 
+(FTMO Trader Program )).  
+5.8.8  If any of the conditions under Clause 5.8.5 is breached we will evaluate the phase  of 
+the FTMO Challenge, and therefore the whole FTMO Challenge,  as unsuccessful.  
+6. FTMO Trader  Program  
+6.1 If you successfully complete the Evaluation Process, we will inform FTMO Trading Global s.r.o. 
+("FTMO Trading ") which may offer you a contract to participate in the FTMO Trader program 
+(the " FTMO Trader  Program ") governed by the FTMO Account  Terms and Conditions whereby 
+you gain access to the FTMO Account and may receive a reward for the data you generate in 
+your FTMO Account . The offer may be time- limited. Successfully completing the Evaluation 
+Process does not guarantee your acceptance into the FTMO Trader Program. We are not responsible for you not being admitted into the FTMO Trader Program for any reason.  
+6.2 The terms, conditions, and agreement between you and FTMO Trading are solely between you 
+and FTMO Trading and you will be advised to read those documents carefully before agreeing 
+to be bound by the terms and conditions.  You acknowledge and agree that your personal data 
+will be shared with FTMO Trading so that they may consider offering you such a contract.  
+6.3 You agree that the FTMO Trader Program may not be available to you in case  (a) providing an 
+account under this program would result in you exceeding USD 400,000 (or its equivalent in 
+another currency ) as the maximum total sum of the Initial Simulated Capital  under all 
+Agreements and the contractual relationship with FTMO Trading or (b) information provided for 
+"know your customer", "know your business" or similar identification procedures were found to 
+be incorrect, invalid, misleading or falsified. The total sum of the Initial Simulated Capital is 
+calculated in aggregate per client , per strategy and  per ultimate beneficial owner or executive 
+of another client or legal entity.  
+ 
+ 
+FTMO General Terms and Conditions   9 / 22 
+ 
+7. Rules of Simulated  Trading  
+7.1 During Simulated Trading, you may perform simulated trades unless these constitute Forbidden 
+Trading Practices. In addition, y ou must follow good market practice and market standard risk 
+management rules for trading in financial markets set out in Clauses  7.4 and 7.5 (the "Risk 
+Management Rules" ). These rules ensure that your simulated trades are replicable with the 
+same or highly similar execution conditions in typical market behaviour  and are not designed to 
+circumvent , or 'game' , our offering. Restrictions may also be imposed by  third parties who 
+provide the Trading Platform or  the trading conditions of the Trading Platform that you select  in 
+the Order . 
+7.2 You agree that the Services are for your personal use only and that only you personally can 
+access the Services and perform simulated  trades. This means that you will not, in particular:  
+7.2.1  allow access to Simulated Trading on any of your FTMO Challenge Accounts or data 
+related thereto by any third party nor engage or cooperate with any third party in order 
+to have such third party perform simulated trades for you or in coordination with you;  
+7.2.2  access FTMO Challenge Accounts of any other person, simulated trade on behalf of 
+any other person or in coordination with such person or perform any account 
+management or similar services, where you agree to make simulated trades , operate 
+or manage the FTMO Challenge Accounts on behalf of any other person, whether 
+performed as a professional or otherwise, and  
+7.2.3  if you are a legal entity, share access to the Services, including the Trading Platform, 
+with your employees except members of top management or another body with the 
+highest executive authority . 
+Forbidden Trading Practices  
+7.3 You must not engage in any Simulated Trading which involves Forbidden Trading Practices. A 
+list of Forbidden Trading Practices is available here . You must familiaris e yourself with the 
+Forbidden Trading Practices. We reserve the right to determine, at our own discretion, whether certain simulated trades, practices, strategies, or situations qualify as or fall within a Forbidden 
+Trading Practice. We may update the list of Forbidden Trading Practices from time to time. We 
+may also impose restrictions on the use of the Trading Platform from time to time if we 
+reasonably suspect that your simulated trading involves a Forbidden Trading Practice.  
+Risk Management Rules 
+7.4 A fundamental aspect of our mission is to educate traders and enhance their skills to cultivate responsible trading habits. We strive to maintain a secure environment for traders to engage in 
+Simulated Trading and we retain the discretion to implement any measures we consider 
+appropriate to prevent activities we deem analogous to gambling, unsafe for the continuation of the business or to prevent any other conduct that we, at our sole discretion, regard as misal igned 
+with our mission and values.  
+7.5 When using the Services you must abide by market standard risk management rules for trading 
+on financial markets. These are defined by us at our discretion, acting reasonably,  to ensure 
+that activity is not designed to circumvent our rules and amounts to genuine Simulated  Trading 
+ 
+ 
+FTMO General Terms and Conditions   10 / 22 
+ 
+strategies. Genuine strategies are strategies using risk management rules a reasonable person 
+would apply when trading on financial markets with  their own money. Market standard risk 
+management rules include, as an example, avoiding:  
+7.5.1  opening substantially larger position sizes compared to your other simulated  trades, on 
+any of your  account s;  
+7.5.2  opening substantially smaller or larger number of positions compared to your other simulated trades, regardless of which of your  account s are concerned, and  
+7.5.3  undertaking repeated simulated trading activity that results in higher Risk per Trade Idea, 
+thereby exposing your simulated  account to cumulative exposure in a specific symbol 
+or correlated symbols.  
+Consequences of Forbidden Trading Practices  and breach of Risk Management Rules  
+7.6 If, acting reasonably, we determine that you have engaged in Simulated Trading which involves 
+Forbidden Trading Practices or breach of the Risk Management Rules , we may , at our sole 
+discretion:  
+7.6.1  consider it a failure to meet the Trading Objectives;  
+7.6.2  cancel , consolidate or reclassify  one or more of your simulated trades or remove any 
+transactions that violate the Rules of Simulated Trading from your trading history and/or 
+not count their results in the profits and/or losses achieved in the Simulated  Trading;  
+7.6.3  immediately cancel all Services provided to you , including access to the User Area  and 
+the Trading Platform, and subsequently terminate any Agreement s concluded with you 
+with immediate effect  pursuant to Clause 13.2.2;  
+7.6.4  inform FTMO Trading who may take applicable steps under the FTMO Account  Terms 
+and Conditions in respect of any FTMO Accounts you may have, including cancellation of all of your FTMO Accounts or rewards thereunder and termination of the respective 
+agreements;  
+7.6.5  reduce the offered leverage on any or all your accounts/  simulated trades ; 
+7.6.6  enforce the limitation on Risk per Trade Idea to the maximum limit we determine, acting 
+reasonably, as a percentage  of the Initial Simulated Capital , which must  not be 
+exceeded in terms of realised or unrealised loss (drawdown) on any single simulated 
+trade or combination of simulated trades out of one trade idea ; 
+7.6.7  enforce a limitation on the volume of any specific symbol or asset class when simulated 
+trading;  
+7.6.8  impose restrictions on the use of the Trading Platform,  and 
+7.6.9  introduce any other additional measures we deem necessary , advisable or adequate in 
+order to ensure your Simulated  Trading activity reflects long term sustainability and is 
+not aimed at the mere exploitation of our model including temporary or permanent consistency measures . 
+ 
+ 
+FTMO General Terms and Conditions   11 / 22 
+ 
+7.7 We will endeavour  to notify you of any action we take. However, we are not required to notify 
+you before taking such action. 
+7.8 If some or all Forbidden Trading Practices are executed on one or more of your FTMO Challenge 
+Accounts, or accounts of various related customers, or by combining trading through FTMO 
+Challenge Accounts and FTMO Accounts, then we are entitled to cancel all Services and 
+terminate all Agreements relating to all FTMO Challenge Accounts you have, with immediate 
+effect, apply other measures in C lause 7.6 in respect of all such involved accounts with us .  
+7.9 We are not obliged to provide you with any compensation if we take any action against you in 
+accordance with this Clause 7 (Rules of Simulated  Trading). You are also not entitled to any 
+refund of the FTMO Challenge Fee.  In addition, we may adopt measures to prevent you from 
+using our services in the future.  
+8. FTMO Points  
+8.1 W hen selecting the method for refund of a previously purchased FTMO Challenge Fee, we may, 
+at our sole discretion, allow  you the option to purchase FTMO Points as a form of refund. In 
+addition, FTMO Points may also be provided to you as a reward by FTMO Trading in the FTMO 
+Trader Program (see Clause 6 ( FTMO Trader  Program )) or by us pursuant to the FTMO Affiliate 
+Program Terms and Conditions  and in special promotional campaigns .  
+8.2 The value of one FTMO Point equals EUR 1.00.  
+8.3 FTMO Points may be used exclusively to purchase services and products from us. In case you select any other currency than EUR to purchase the services or products from us, the amount 
+of the fee will be converted at a market exchange rate we derive from current market rates. FTMO Points cannot be exchanged for cash or other monetary value.  
+8.4 You can access the overview of the purchased FTMO Points in the User Area, where you can 
+see the current number of FTMO Points available to you as well as their history. FTMO Points have an expiration date, which will be shown to you at the moment of purchase and displayed in the User Area. 
+8.5 FTMO Points will be applied to your purchase in the following order: first, FTMO Points purchased with a refund for FTMO Challenge or provided as a reward by FTMO Trading in the 
+FTMO Trader Program (see Clause 6 (FTMO Trader Program)) or by us pursuant to the FTMO 
+Affiliate Program Terms and Conditions, secondly, FTMO Points received as part of a 
+promotional campaign.  
+8.6 In the event of withdrawal from the contract for the purchase of any of our products and services in which FTMO Points were used, we will return the relevant part of the purchase price in the form of FTMO Points.  
+8.7 You are solely responsible and liable for the payment of any and all taxes, whether direct or indirect, including all federal and state and local income, payroll taxes and any other taxes, levies or fees that may apply under the applicable laws upon the redemption of FTMO Points and acknowledge and agree that we are not liable for any such obligations.  
+ 
+ 
+FTMO General Terms and Conditions   12 / 22 
+ 
+9. Use of the Website, Services and other Content  
+9.1 All Content is subject to legal protection pursuant to copyright laws and other laws and 
+regulations and is our or our licensor's property. We grant you a limited, non- exclusive, non-
+transferable, non- assignable, non- passable, and revocable permission to use the Content for 
+the purpose of using the Services for your personal use and in accordance with these Terms . 
+The Content is not sold or otherwise transferred to you and remains our property or our licensor's 
+property.  Any misuse of our or our licensor’s property will result in termination of the Agreement 
+pursuant to Clause 13  (Duration and termination of the Agreement ) and misuse of our licensor’s 
+property will also subject you to liability under applicable law outside the terms of the Agreement.  
+9.2 All trademarks, logos, trade names, and other designations displayed on, through or in 
+connection with the Services  are our property or our licensor's property, and we do not grant 
+you any authori sation to use them.  
+9.3 Except for the rights expressly set out in these  Terms , we do not grant you any other rights 
+relating to the Services and the Content. You may only use the Services and the Content as 
+expressly permitted in these  Terms . 
+9.4 When accessing the Services and the Content  you agree that  you will not : 
+9.4.1  use any tools that may adversely affect the operation of the Website, the Services or 
+the Content, or that would be intended to take advantage of errors, bugs or other 
+deficiencies of the Website, the Services or the Content ; 
+9.4.2  circumvent geographical restrictions of availability or any other technical restrictions;  
+9.4.3  make copies or back -ups of the Website, the Services or the Content;  
+9.4.4  reverse- engineer, decompile, disassemble or otherwise modify the Website, the 
+Services or the Content ; 
+9.4.5  sell, rent, lend, license, distribute, reproduce, spread, stream, broadcast or use the Website, the Services or the Content otherwise than as expressly permitted in these 
+Terms ; 
+9.4.6  use automated means to view, display or collect information available through the 
+Website, the Services or the Content ; or 
+9.4.7  use any other tools or means the use of which could cause any damage to us, the 
+Website, the Services or the Content.  
+9.5 You must inform us if you use the same payment channel or payment component details, such 
+as debit  or credit card, external wallet or crypto address, or the same device ( such as computer, 
+mobile phone  or tablet)  for accessing the Services with any other user of our Services.  
+10. Disclaimer  and indemnification  
+10.1 The Services, the Website and the Content are provided “as is” and we hereby disclaim, to the fullest extent permitted by law, any statutory, contractual, express and implied warranties of any 
+kind, including any warranty of quality, merchantability, fitness for a particular purpose or non-
+ 
+ 
+FTMO General Terms and Conditions   13 / 22 
+ 
+infringement of any rights. We do not provide any guarantee for the quality of the Services and 
+we make no express or implied representations that the Services, including the Trading Platform 
+and the Website, will meet your or any other person’s requirements, be compatible with any 
+software, system or other services, accurate, complete, free of errors  or fully accessible at all 
+times . 
+10.2 To the fullest extent permitted by law, we are not responsible for:  
+10.2.1  any harm, including any direct, indirect or consequential damage, including lost income 
+or profit, loss of data, personal or other non- monetary harm, or property damage caused 
+as a result of use of the Services or reliance on any instrument, functionality, inf ormation 
+or any other content available in connection with the use of the Services or elsewhere 
+on the Website;  
+10.2.2  our failure to provide the Services if that failure occurs due to technical or operational reasons beyond our control, in the case of any crisis or imminent crisis, natural disaster, 
+war, insurrection, pandemic, a threat to a large number of people or other force majeure 
+events, or if we are prevented from providing the Services as a result of any obligations imposed by law or a decision of a court or tribunal or public authority with competent 
+jurisdiction over us ; 
+10.2.3  any products, services, applications or other third- party content that you use in 
+connection with the Services and we do not make any express or implied 
+representations as to the compatibility of the Services with any such third- party content;  
+10.2.4  the Trading Platform and any information displayed on the Trading Platform, all of which 
+is provided by a third party,  or for any interruptions, delays or inaccuracies in the market 
+or statistical data displayed through the Trading Platform or the instruments accessible 
+within the Services or otherwise in connection with the Trading Platform, and  
+10.2.5  trading or other investment activities performed by you outside of your relationship with 
+us, for example by using data or other information from the User Area, Trading Platform, 
+or otherwise related to the Services in real trading on financial markets . 
+10.3 In case our liability is inferred in connection with the operation of the Website or provision of the 
+Services by a court or tribunal or any other public authority with competent jurisdiction over us, 
+this liability will be limited to the amount corresponding to the FTMO Challenge Fee you have 
+paid for the Services in connection with which you have incurred the loss.  
+10.4 Nothing in these Terms is intended to exclude, restrict or modify the application of any implied condition or warranty, any provision, the exercise of any right or remedy, or the imposition of 
+any liability under the Czech consumer law provisions or any ot her statute where to do so would 
+contravene that statute; or cause any provision of these terms to be void  
+10.5 You shall indemnify, hold harmless, and, at our option, defend us from and against any and all 
+losses, damages, liabilities and costs (including reasonable attorneys’ fees) resulting from any 
+third-party claim, suit, action or proceeding ( "Third -Party Claim ") that the Services or the 
+Website, or any use thereof, infringes or misappropriates such third- party’s intellectual property 
+rights or other proprietary rights and any Third- Party Claims based on your (i) negligence or 
+ 
+ 
+FTMO General Terms and Conditions   14 / 22 
+ 
+wilful  misconduct; (ii) use of the Services or the Website in a manner not authori sed by these 
+Terms; (iii) use of the Services or the Website in combination with data, software, hardware, 
+equipment, or technology not provided by us or authori sed by us in writing; or (iv) modifications 
+to the Services or the Website not made by us, provided that you may not settle any Third- Party 
+Claim against us unless we consent to such settlement, and further provided that we will have 
+the right, at our option, to defend ourself against any such Third- Party Claim or to participate in 
+the defence  thereof by counsel of our own choice. To the fullest extent permitted by law, the 
+indemnity provided in this Clause 10.5 shall survive the termination of the Agreement.  
+11. Breach  of these Terms  
+11.1 We may prevent you from ordering further Services and restrict your access to existing Services, 
+including to the User Area and the Trading Platform,  without any prior notice,  if you  breach any 
+provision of these Terms . If you breach Clause 1 (Eligible customers ), 3.4, 7 (Rules of Simulated 
+Trading)  or Clause 9 (Use of the Website, Services  and other Content ) or act in a manner that 
+may damage our reputation , including after termination of this Agreement, we will terminate one 
+or more Agreements and you will lose access to the Services . In addition, we may adopt 
+measures to prevent you from using our services in the future.  
+11.2 We are not obliged to provide you with any compensation in the cases set out in Clause  11.1.  
+12. Right to withdraw from the Agreement  
+12.1 If you are a Consumer, you have the right to withdraw from the Agreement relating to an 
+individual Order without giving a reason during a fourteen (14) calendar -day period following the 
+execution of such Agreement. However, with respect to the FTMO Challen ge, you may not 
+withdraw from the Agreement after you start using the Service purchased under the respective 
+Order. Therefore, your withdrawal right applies only before you open your first simulated trade on the Trading Platform and activate the FTMO Chall enge purchased by such Order. 
+Consequently, when you open the first simulated trade on the Trading Platform during the fourteen (14) calendar -day period following the execution of the Agreement, you thus express 
+your consent that the Services under particu lar Order are to be provided in full and will cause 
+you to lose your right to withdraw from the Agreement. If you wish to retain your right to withdraw 
+from the Agreement, please avoid opening your first simulated trade on the Trading Platform 
+during the f ourteen (14) calendar -day period after conclusion of the Agreement . 
+12.2 You must send the withdrawal from the Agreement to us by email within the specified time limit. You can use the template form available here. We will confirm receipt of the form without undue 
+delay. We will refund the FTMO Challenge Fee and any other payment you made to us in connection with the respective Order no later than fourteen (14) calendar -days after withdrawal 
+from the Agreement in t he same manner in which you made the payment.  
+13. Duration and t ermination of the Agreement 
+13.1 The Agreement is concluded for a definite period until the FTMO Challenge is successfully passed or failed in accordance with the C lause 5 (Our services ).  
+13.2 The Agreement may be terminated early in the following cases : 
+13.2.1  The Agreement terminates automatically and with immediate effect :  
+ 
+ 
+FTMO General Terms and Conditions   15 / 22 
+ 
+(a) in case you reject a Modification as set out in Clause 15.1;  
+(b) upon your death or, in case of legal entities, a filing for bankruptcy, winding -
+up, dissolution or liquidation, or  
+(c) if your registration on the Website is duplicat ive. 
+13.2.2  We may terminate the Agreement with immediate effect : 
+(a) if you do not meet the criteria set out in Cl ause 1 (Eligible customers ); 
+(b) if you do not pay the FTMO Challenge Fee as set out in Clause 3 (Order of 
+Services ); 
+(c) due to your inactivity as set out in Clause 5.8.4;  
+(d) if you breach the rules regarding personal use of the Services set out in Clause 
+7.2, including in any FTMO Account  Agreement, as determined by us before 
+or during your participation in the FTMO Trader Program;  
+(e) if access to the User Area is terminated;  
+(f) if you engage in Forbidden Trading Practices as set out in Cl auses 7.6 to 7.9, 
+including on any FTMO Account as notified to us by FTMO Trading;  
+(g) if we determine, acting reasonably, that the provision of Services under the 
+Agreement would adversely affect our ability to comply with our legal obligations or orders or decisions of any court, tribunal or public authority ; 
+(h) as a result of your breach of these Terms as set out in Clause 11  (Breach of 
+these Terms ), or 
+(i) as a result of a change to these Terms  as set out in Clause 15 (Changes to 
+these Terms ). 
+13.2.3  In addition, we reserve the right to terminate the Agreement with you in respect of an  
+FTMO Challenge Account in case of your prolonged inactivity. Prolonged inactivity is 
+when:   
+(a) you do not open at least one simulated trade on the Trading Platform for a 
+period of thirty ( 30) consecutive calendar days, or 
+(b) you maintain a loss in the FTMO Challenge Account in the amount between 
+8% and 10% (included) of the Initial Simulated Capital for a period longer than 
+thirty ( 30) calendar days , whereas (i) performing simulated  trades designed to 
+circumvent this rule will be deemed to fulfil this  condition  and (ii) circumventing 
+means performing simulated trades not consistent with your previous 
+Simulated T rading pattern.  
+13.2.4  Either party may terminate the Agreement without cause by serving a written notice at 
+least fourteen ( 14) calendar days in advance on the other party. 
+13.3 If the Agreement is terminated, all Services provided under such Agreement are terminated.  
+ 
+ 
+FTMO General Terms and Conditions   16 / 22 
+ 
+13.4 Notwithstanding any other provision of these Terms, the following Clauses will survive the 
+termination of the Agreement:  8 (FTMO Points ), 9 (Use of the Website, Services and other 
+Content ); 10 (Disclaimer and indemnification) , and 16 (Your personal information and Simulated 
+Trading information) . 
+13.5 We are not obliged to provide you with any compensation if we exercise our rights set out in 
+Clause 13.2.  
+14. Technical issues, d efective performance and complaints  
+14.1 If you encounter any technical issue or defect of the Services you agree to  report them to us at 
+your earliest convenience by using the forms available here or contacting us using the methods 
+listed here with the account identified and a description of the issue including the date and time. 
+In case you proceed to perform new simulated  trades after observing a technical issue without 
+receiving a response from our team, you may be deemed fully responsible for the outcome of 
+such simulated  trades, even if these were affected by the identified technical issue.  You 
+acknowledge that  we use tools utilis ing artificial intelligence for various tasks related to the 
+Services, including by our technical support team.  
+14.2 If the Services do not correspond to what was agreed or the Services have not been provided 
+to you, you can exercise your rights from defective performance. When exercising the rights 
+from defective performance, you may only request that we remedy the defect or provide you 
+with a reasonable discount. If the defect cannot be remedied, you can withdraw from each 
+affected Agreement or claim a reasonable discount .  
+14.3 If you have any complaints or suggestions, we will be happy to discuss them directly with you. 
+You can file a complaint by sending an email to us. We will try to resolve any complaint you 
+lodge as soon as possible, however no later than within thirty (30) calendar days, and we will 
+confirm its receipt and settlement to you in writing. If we do not deal with the complaint in time, in case you are Consumer who is an EU resident you have the right to withdraw from the relevant 
+Agreement or claim a reasonable discount. Acting reasonably, we are entitled to stop providing 
+any of the Services to you and to refuse any future provision of any Services if you lodge a complaint regarding the fee paid which we deem to be unjustifiable or if you dispute the FTMO 
+Challenge Fee wit h your bank or payment service provider, (for example through chargeback 
+services, dispute services, or similar), on the basis of which an annulment, cancellation or refund of the fee or any part thereof is requested.  
+15. Changes to these Terms  
+15.1 We may amend these Terms in the future (each such amendment a " Modification "). We will 
+send you a notice of any Modification  at least seven (7) c alendar days before the change in the 
+Terms is effective, via the User Area or by email . Your continued use of the Services will 
+constitute acceptance of the Modification. If you do not agree with the Modification, you are 
+entitled to reject it by email no later than on the last business day before such changes take 
+effect. In such a case all Agreements will be aut omatically terminated. We are not obliged to 
+pay any compensation to you in case of any Modification.  
+ 
+ 
+FTMO General Terms and Conditions   17 / 22 
+ 
+15.2 If the Modification offers you a new service or other additional functionalities or this change is 
+solely to your advantage, we can inform you about this change less than seven (7) calendar 
+days before the effective date of such change, but no later than the day before its effectiveness . 
+15.3 We may amend these Terms  to, among other things : 
+15.3.1  introduce new services or products or amend existing services or products;  
+15.3.2  reflect legal or regulatory requirements applicable to us or the Services ; 
+15.3.3  make these Terms  easier to understand and more helpful;  
+15.3.4  adjust the way our s ervices are provided, particularly due to technological developments 
+or changes in background processes;  or 
+15.3.5  reflect changes in the cost of offering the Services . 
+16. Your personal information and Simulated  Trading information  
+16.1 When providing the Services we will process  your personal data in accordance with the Privacy 
+Policy  which may be updated from time to time.  
+16.2 If you are a legal entity we may collect personal data with respect to your employees, officers or representatives from you. In such case you represent that you have authority to provide such 
+information to us and have provided them with our Privacy Policy.  
+16.3 You acknowledge that while providing the Services we have access to information about simulated trades that you perform on the Trading Platform. You consent to us sharing this 
+information with other members of the FTMO  Group, and to us and other members of the FTMO  
+Group using this information including, without limitation, in connection with our or their trading 
+in financial products or to improve ours or their services, at our or their sole discretion, or 
+processing and analysing  this information, includi ng by automated means . The information 
+about simulated trades that you perform on the Trading Platform,  which we share, use, process 
+or analyse pursuant to the preceding sentence,  is always anonymi sed. You agree that these 
+activities may be performed automatically without any further consent or consultation on your part. You agree that you have no right or entitlement to any benefit in connection with the use 
+of such data by us or another member of the FTMO  Group, and that we are not obliged to 
+provide you with any information relating to our specific use of such information. Your consent survives the termination of the Agreement . 
+16.4 The termination of the Agreement does not affect the processing and use of any personal data  
+or Simulated Trading information obtained prior to termination.  
+17. Out-of-court consumer dispute resolution   
+17.1 This Clause 17.1 applies only to a Consumer who is an EU resident. The Czech Trade 
+Inspection Authority (in Czech, Česká obchodní inspekce), with its registered office at Štěpánská 567/15, 120 00 Prague 2, Czech Republic, Identification No.: 000 20 869, website: 
+https://www.coi.cz/en/information -about -adr/, is responsible for out -of-court settlement of 
+consumer disputes. You can also use the platform at the following website to resolve disputes online: https://www.ec.europa.eu/consumers/odr . Such disputes may be initiated provided that 
+ 
+ 
+FTMO General Terms and Conditions   18 / 22 
+ 
+you and we  did not manage to resolve the dispute directly. The proceedings may be commenced 
+only within one year after you contacted us with respect to the disputed right for the first time.  
+18. Governing law and jurisdiction  
+18.1 The Agreement, including these Terms, and any Services provided thereunder and any non-
+contractual obligations arising under the Agreement are governed by the laws of the Czech 
+Republic . 
+18.2 Without prejudice to Clause 17  (Out-of-court consumer dispute resolution) , the courts in the 
+Czech Republic have local jurisdiction to settle any dispute arising under or in connection with 
+the Agreement (including a dispute relating to the existence, validity or termination of the 
+Agreement).  
+19. Communication  and notices  
+19.1 We will generally communicate with you, and give you notices in connection with the provision of the Services , electronically via the User Area or to the email address  which you have 
+registered with us. You may not change the email address after registration. You consent to us 
+providing any notices or documents which we are required to provide to you under applicable law in this manner . Such communication is considered written communication  and delivered  
+when we have sent it to your registered email address  or when it has been added to the User 
+Area . You are responsible for ensuring that your email address is accessible to you for the 
+purpose of receiving communications from us.  
+19.2 Please use the methods listed here for all communication regarding this Agreement or the 
+Services.  In case of any technical issues or defects of the Program or the Services you may use 
+the forms available here. We will consider a notice or communication to be received when it is 
+actually delivered to our designated email address or through the other specified communication forms . 
+20. General  
+20.1 We have not adopted any consumer code of conduct.  
+20.2 The Agreement is concluded in the English language. By entering into the Agreement and 
+accepting the Services, you confirm that you understand the English language and agree to 
+communicate with us in English language for all purposes arising under the Agreement including 
+with respect to submitting and resolving any issues you raise.  
+20.3 We archive the Agreement in electronic form. A copy of the Agreement, including these Terms and your Orders, is  available in the User Area.  
+20.4 The Agreement, together with any other documents incorporated herein by reference, 
+constitutes the sole and entire agreement between you and us with respect to the subject matter 
+of this Agreement and supersedes all prior and contemporaneous understandings , agreements, 
+and representations and warranties, both written and oral, whether express or implied, with 
+respect to such subject matter. In the event of a conflict between the wording of the main text of 
+these Terms and any document referred to in these T erms, the main text of these Terms shall 
+prevail.  
+ 
+ 
+FTMO General Terms and Conditions   19 / 22 
+ 
+20.5 You agree that we may assign or transfer the Agreement, any part thereof or any individual 
+obligations or any individual rights arising therefrom to a third party. We may also agree with a 
+third party on any assumption of our debts and obligations under th e Agreement at any time and 
+at our sole discretion. You may not transfer the Agreement, any part thereof or any individual obligations or any individual rights arising therefrom to a third party without our prior written 
+consent . 
+20.6 If at any time any provision of the Agreement is or becomes void, illegal, invalid, ineffective or unenforceable in any respect, it will not affect the validity, effectiveness and enforceability of the 
+remaining provisions of the Agreement. Any such void, illegal, invalid, ineffective or 
+unenforceable provision of the Agreement will be replaced by incorporation of a provision which best achieves the commercial effect that we intended thereby, and is valid, effective and 
+enforceable.  
+20.7 In no event shall we be liable to you, or be deemed to have breached this Agreement, for any failure or delay in performing our obligations under this Agreement, if and to the extent such 
+failure or delay is caused by any circumstances beyond our reasonabl e control, including but 
+not limited to acts of God, flood, fire, earthquake, explosion, war, terrorism, invasion, riot or other 
+civil unrest, strikes, labour  stoppages or slowdowns or other industrial disturbances, or passage 
+of a law or any action taken by a governmental or public authority, including imposing an embargo.  
+20.8 No past or future practice established between the parties and no custom maintained in general or in the industry relating to the subject -matter of the performance, which is not expressly 
+referred to in the Agreement, will be applied and no rights and obli gations will be derived from 
+them for the parties. In addition, they will not be taken into account in the interpretation of manifestations of the will of the parties.  
+20.9 Each of us acknowledges and agrees that a breach or threatened breach by such party of any 
+of its obligations under Clause 9.4 would cause the other Party irreparable harm for which 
+monetary damages would not be an adequate remedy and agrees that, in the event of such breach or threatened breach, the other Party will be entitled to an injunction, specific 
+performance, and any other relief that may be available from any court. Such remedies are not 
+exclusive and are in addition to all other remedies that may be available at law, in equity, or 
+otherwise.  
+20.10  No failure to exercise, or any delay in exercising, on our part, any right under the Agreement will operate as a waiver, nor will any single or partial exercise of any right prevent any further or 
+other exercise or the exercise of any other right.  
+20.11  Both you and we undertake to act in accordance with the principles of fair dealing in the 
+performance of the Agreement and in mutual negotiations and, in particular, not to damage each other’s reputation and legitimate interests. You and we will work in go od faith to resolve any 
+possible disagreements or disputes in accordance with the Agreement and applicable law.  
+20.12  Prior to the conclusion of the Agreement and acceptance of the Terms, both parties to the Agreement have carefully assessed the possible risks arising from them and accept those risks  
+ 
+ 
+FTMO General Terms and Conditions   20 / 22 
+ 
+21. Definitions and interpretation  
+21.1 In these Terms , the following terms have the meaning set out below : 
+"Agreement " means the contract between you and us which is concluded when we confirm 
+your Order as set out  in the introductory provisions to these Terms . 
+"Consumer " means any natural person who is acting for purposes which are outside their trade, 
+business, craft, or profession.  
+"Content"  means the Website and all the Services, including the User Area , their appearance 
+and all applications, data, information, multimedia elements such as texts, drawings, graphics, 
+design, icons, images, audio and video samples and other content that may form the Services, 
+and includes any such content located on social networks of us or any other  member of the 
+FTMO  Group.  
+"Forbidden Trading Practices " means trading practices, strategies or situations specified on 
+the Website, as updated from time to time which are strictly forbidden while using our s ervices 
+and which are more detailed in Clause 7.3 . 
+"Free Trial " means the option to use certain Services within a limited scope and for a limited 
+period free of charge as set out in Clause 5.7.  
+"FTMO Account"  means an account for Simulated Trading which relates to the FTMO Trader 
+Program provided by FTMO Trading.  
+"FTMO Challenge " means the S ervice  described in Claus e 5.8 (Evaluation Process ) which we 
+provide in  two versions : (a) FTMO Challenge:  1-Step, which comprises one phase, FTMO 
+Challenge Phase  and (b) FTMO Challenge:  2-Step, which comprises two phases: ( i) FTMO 
+Challenge Phase ; and ( ii) Verification Phase.  
+"FTMO Challenge A ccount " means the simulated trading account related to each phase of the 
+FTMO Challenge.  
+"FTMO Challenge Fee " means  the fee for the FTMO Challenge which varies according to the 
+Options . 
+"FTMO  Group " means FTMO Evaluation, FTMO Trading and their respective affiliates.  
+"FTMO Trader Program " means the program offered by FTMO Trading governed by the FTMO 
+Account  Terms and Conditions whereby you gain access to the FTMO Account and may receive 
+a reward for the data you generate in your FTMO Account.  
+"FTMO Trading " means FTMO Trading Global s.r.o., a company established and existing under 
+the laws of the Czech Republic, with its registered office at Purkyňova 2121/3, Nové Město, 110 00 Prague 1, Czech Republic, Identification No.: 094 18 415.  
+"Initial Simulated Capital " means a simulated amount that you have chosen when selecting 
+the Option s and which you will use to perform Simulated Trading . 
+ 
+ 
+FTMO General Terms and Conditions   21 / 22 
+ 
+"Modification " means our right to modify, change, replace, add, or remove any elements and 
+functions of the Services at any time by an amendment to these Terms as set out in Clause 15 
+(Changes to these Terms ). 
+"Options " means the options you select when completing the Order as set out in Clause  3.2. 
+"Order " means  an order of the FTMO Challenge and other Services which you make on the 
+Website by completing and submitting the relevant form.  
+"Profile Credentials " means  the login credentials for access to the User Area created during 
+registration.  
+"Restricted Jurisdictions " means the countries where we do not provide the Services and from 
+which we do not accept citizens or residents as customers as determined by us at our discretion. 
+The current list is available here and may be updated from time to time.  
+"Risk Management Rules " means good market standard rules and practices for trading on 
+financial markets set out in Clauses 7.4 and 7.5. 
+"Risk per Trade Idea"  means the total exposure in a specific symbol (or correlated symbols) on 
+your account during a given moment or within a specific time period, measured as a percentage 
+of your initial Simulated Capital, whereas the associated risk is determined by the maximum 
+drawdown of reali sed or unreali sed loss  of the positions linked to the same trade idea.  
+"Services"  means our services which we enable you to access through the Website and which 
+are further described in Clause 5 (Our services ). 
+"Simulated Trading"  means activity that simulates trading on financial markets you perform on 
+the Website, in which information and market data (price quotes) from real financial markets as 
+provided by our liquidity providers is used only to reproduce market conditions, no actual trading 
+is taking place and there is no execution of trades in financial markets. Also referred to as ‘demo 
+trading’ in marketing materials and the Website.  
+"Terms " means these FTMO General Terms and Conditions.  
+"Trading Objectives " means the requirements that we set and that you must meet before you 
+can advance from one phase  of the FTMO Challenge to the next phase (if applicable) or from 
+the FTMO Challenge to become a participant of the FTMO Trader  Program. They are set out 
+on the Website and may be updated from time to time.  
+"Trading Platform " means an electronic interface provided by a third party in which you perform 
+the Simulated Trading.  
+"Trading  Platform Credentials" means the login credentials for access to the Trading Platform 
+shared with you after receiving payment of the FTMO Challenge Fee.  
+"User Area" means the user interface located on the Website.  Also referred to as the ‘Client 
+Area’ in marketing materials and the Website.  
+"we" means FTMO Evaluation.  
+"Website"  means the website ftmo.com.  
+ 
+ 
+FTMO General Terms and Conditions   22 / 22 
+ 
+21.2 If we use a currency in these Terms , equivalent in a different currency applies as well.  

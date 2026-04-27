@@ -1,0 +1,6 @@
+metatrader5
+websockets
+pandas
+aiohttp
+numpy
+python-dotenv
